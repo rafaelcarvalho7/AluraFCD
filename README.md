@@ -1,2 +1,2 @@
 # AluraFCD
-Códigos da formação Cientista de Dados da Alura
+Portifólio da formação Cientista de Dados da Alura
